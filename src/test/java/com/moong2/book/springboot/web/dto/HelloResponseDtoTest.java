@@ -1,4 +1,4 @@
-package com.moong2.book.springboot.dto;
+package com.moong2.book.springboot.web.dto;
 
 import com.moong2.book.springboot.web.dto.HelloResponseDto;
 import org.junit.Test;
